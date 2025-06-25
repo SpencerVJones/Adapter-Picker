@@ -1,9 +1,9 @@
 # Adapter-Picker
-<div align="left">
-
-![Repository Views](https://komarev.com/ghpvc/?username=SpencerVJones&repo=Adapter-Picker&color=blue&style=flat)
-
+ <div align="left">
+	
+  ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Adapter-Picker)
 </div>
+
 
 This Android application demonstrates the usage of different types of adapters in a ListView and GridView. The app allows users to switch between different views (ListView and GridView) and different adapters (ArrayAdapter, SimpleAdapter, and CustomBaseAdapter).
 
